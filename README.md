@@ -12,7 +12,7 @@
     <li>🌱 <strong>Always Evolving</strong>: Currently diving deep into <strong>DevOps tools</strong> and <strong>emerging frameworks</strong> to build even more scalable and efficient applications.</li>
     <li>🔧 <strong>Tech Enthusiast & Innovator</strong>: Whether it's creating CI/CD pipelines, automating tasks, or deploying on <strong>AWS</strong>, I’m always up for a challenge to improve performance and reliability.</li>
     <li>📈 <strong>Impactful Development</strong>: I am actively contributing to real-time, high-performance web applications, including a <strong>Real Estate Project</strong> that’s designed to make a real difference in the industry.</li>
-    <li>🌍 <strong>Ask Me About</strong>: <strong>Python</strong>, <strong>Django</strong>, <strong>MySQL</strong>, and anything related to the <strong>cloud</strong> and <strong>automation</strong>.</li>
+    <li>🌍 <strong>Ask Me About</strong>: <strong>Python</strong>, <strong>Django</strong>, <strong>MySQL</strong>, and stuff related to the <strong>cloud</strong> and <strong>Web Scraping</strong>.</li>
     <li>📬 <strong>Let’s Connect</strong>: You can always reach me at <strong>anamzahid126@gmail.com</strong>. Let's chat about <strong>tech</strong>, <strong>coding</strong>, or any interesting problem to solve!</li>
     <li>⚡ <strong>Fun Fact</strong>: I have a habit of laughing at serious situations. It’s my secret weapon to keep things light and creative in the toughest of times!</li>
   </ul>
