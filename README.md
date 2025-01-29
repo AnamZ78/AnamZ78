@@ -1,35 +1,58 @@
-<h1 align="center">Hi 👋, I'm Anam Zahid</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center" style="color: #ff6600; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Anam Zahid</h1>
+<h3 align="center" style="color: #3366cc;">A Passionate Python Developer & Web Enthusiast from India</h3>
 
-<img align="right" alt="coding" width ="400" src ="
-
-https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif
-</img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamz78&label=Profile%20views&color=0e75b6&style=flat" alt="anamz78" /> </p>
-
-- 🔭 I’ve been working on **Realestate Project**
-
-- 🌱 I’m currently learning **Devops Tools and new Frameworks**
-
-- 👨‍💻 All of my projects are available at [---](---)
-
-- 💬 Ask me about **Python, Django, Mysql**
-
-- 📫 How to reach me **anamzahid126@gmail.com**
-
-- ⚡ Fun fact **Habit of laughing at serious situations**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anamzahid126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamzahid126" height="30" width="40" /></a>
-<a href="https://instagram.com/anam_zahid.78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anam_zahid.78" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=EqhbMowinbzPF91BjJkkrlaPtfgghLq41G_igcEsnTU" alt="Python Coding Girl" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div style="background-color: #121212; color: #e0e0e0; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <h3 style="color: #ff6600;">🚀 About Me:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>💻 <strong>Passionate about Python</strong>: From building web scrapers to designing seamless backend systems with <strong>Django</strong> and <strong>Flask</strong>, I live and breathe code.</li>
+    <li>🌱 <strong>Always Evolving</strong>: Currently diving deep into <strong>DevOps tools</strong> and <strong>emerging frameworks</strong> to build even more scalable and efficient applications.</li>
+    <li>🔧 <strong>Tech Enthusiast & Innovator</strong>: Whether it's creating CI/CD pipelines, automating tasks, or deploying on <strong>AWS</strong>, I’m always up for a challenge to improve performance and reliability.</li>
+    <li>📈 <strong>Impactful Development</strong>: I am actively contributing to real-time, high-performance web applications, including a <strong>Real Estate Project</strong> that’s designed to make a real difference in the industry.</li>
+    <li>🌍 <strong>Ask Me About</strong>: <strong>Python</strong>, <strong>Django</strong>, <strong>MySQL</strong>, and anything related to the <strong>cloud</strong> and <strong>automation</strong>.</li>
+    <li>📬 <strong>Let’s Connect</strong>: You can always reach me at <strong>anamzahid126@gmail.com</strong>. Let's chat about <strong>tech</strong>, <strong>coding</strong>, or any interesting problem to solve!</li>
+    <li>⚡ <strong>Fun Fact</strong>: I have a habit of laughing at serious situations. It’s my secret weapon to keep things light and creative in the toughest of times!</li>
+  </ul>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamz78&show_icons=true&locale=en&layout=compact" alt="anamz78" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamz78&show_icons=true&locale=en" alt="anamz78" /></p>
+### 🌐 Connect With Me:
+<p align="center">
+<a href="https://linkedin.com/in/anamzahid126" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
+<a href="https://instagram.com/anam_zahid.78" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamz78&" alt="anamz78" /></p>
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="50" height="50"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anamz78&theme=radical" alt="GitHub Streak" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamz78&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="60%"/>
+</p>
+
+---
+
+✨ _Thanks for visiting!_ 🚀
