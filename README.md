@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,35:3d59a1,70:7aa2f7,100:bb9af7&text=Anam%20Zahid&fontColor=f8f8f2&fontSize=58&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Agent%20%26%20LLM%20Evaluation&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="Anam Zahid" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,35:3d59a1,70:7aa2f7,100:bb9af7&text=Anam%20Zahid&fontColor=f8f8f2&fontSize=58&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Agent%20and%20LLM%20Evaluation&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="Anam Zahid" />
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/anam_zahid.78"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=7aa2f7" alt="Instagram"/></a>
 <a href="https://anam-zahid-portfolio.onrender.com/static/assets/Anam_Zahid_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-1a1b27?style=for-the-badge&logo=adobeacrobatreader&logoColor=bb9af7" alt="Résumé"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AnamZ78&label=Profile+views&color=7aa2f7&style=flat-square&labelColor=1a1b27" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/AnamZ78?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Followers"/>
