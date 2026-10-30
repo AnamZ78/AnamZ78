@@ -69,22 +69,6 @@ open_to:     [Python Backend, AI/LLM Engineering, GenAI]
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15101f,20:ff3b3b,40:3b9ae1,60:f7c948,80:6a4c93,100:15101f" width="100%" alt=""/>
 
-<h2 align="center">📣 &nbsp;The One With the Quotes &nbsp;📣</h2>
-<p align="center"><sub>— lines from the show, translated into how I actually work —</sub></p>
-
-<table align="center">
-<tr><th align="left">They said</th><th align="left">I heard</th></tr>
-<tr><td><b>“PIVOT! PIVOT!”</b></td><td>Refactor the architecture before the couch gets stuck on the stairs.</td></tr>
-<tr><td><b>“We were on a break!”</b></td><td>Feature branches. Always. Nothing lands on <code>main</code> mid-argument.</td></tr>
-<tr><td><b>“Joey doesn't share food!”</b></td><td>Secrets stay in env vars. Nobody gets a bite of the API keys.</td></tr>
-<tr><td><b>“Could I <i>BE</i> any more sarcastic?”</b></td><td><code>pytest -v</code> on every PR — the tests do the talking.</td></tr>
-<tr><td><b>“Unagi.”</b></td><td>Total awareness: centralised logging, job statuses, notifications that fire before anyone asks.</td></tr>
-<tr><td><b>“It's a moo point.”</b></td><td>Premature optimisation. Ship it, measure it, then fix the thing that's actually slow.</td></tr>
-<tr><td><b>“Seven! Seven! Seven!”</b></td><td>That's the number of years of friendship I'm hoping for with your codebase.</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15101f,20:ff3b3b,40:3b9ae1,60:f7c948,80:6a4c93,100:15101f" width="100%" alt=""/>
-
 <h2 align="center">🎬 &nbsp;The One With the Stack &nbsp;🎬</h2>
 
 <div align="center">
