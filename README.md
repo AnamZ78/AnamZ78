@@ -110,16 +110,16 @@ class AnamZahid:
 <div align="center">
 
 <a href="https://github.com/AnamZ78/hrms-lite">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AnamZ78&repo=hrms-lite&theme=radical&hide_border=true" alt="hrms-lite" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnamZ78&repo=hrms-lite&theme=radical&hide_border=true" alt="hrms-lite" />
 </a>
 <a href="https://github.com/AnamZ78/portfolio">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AnamZ78&repo=portfolio&theme=radical&hide_border=true" alt="portfolio" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnamZ78&repo=portfolio&theme=radical&hide_border=true" alt="portfolio" />
 </a>
 <a href="https://github.com/AnamZ78/E-Comm-Website">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AnamZ78&repo=E-Comm-Website&theme=radical&hide_border=true" alt="E-Comm-Website" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnamZ78&repo=E-Comm-Website&theme=radical&hide_border=true" alt="E-Comm-Website" />
 </a>
 <a href="https://github.com/AnamZ78/Urlshortener">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AnamZ78&repo=Urlshortener&theme=radical&hide_border=true" alt="Urlshortener" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnamZ78&repo=Urlshortener&theme=radical&hide_border=true" alt="Urlshortener" />
 </a>
 
 </div>
@@ -137,8 +137,8 @@ class AnamZahid:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnamZ78&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnamZ78&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=php" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnamZ78&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnamZ78&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=php" alt="Top languages" />
 
 <br/><br/>
 
