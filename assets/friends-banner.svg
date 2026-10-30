@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Anam Zahid — The One Where She Builds Backends">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a1640"/><stop offset="0.5" stop-color="#5b3d86"/><stop offset="1" stop-color="#2a1640"/>
+    </linearGradient>
+    <linearGradient id="door" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7b5bb0"/><stop offset="1" stop-color="#4b2d78"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe08a"/><stop offset="0.5" stop-color="#f7c948"/><stop offset="1" stop-color="#d9a420"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Arial Black','Helvetica Neue',Arial,sans-serif;font-weight:900}
+      .s{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;letter-spacing:5px}
+      .m{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:500}
+      .dot{animation:tw 2.4s ease-in-out infinite}
+      .d2{animation-delay:.8s}.d3{animation-delay:1.6s}
+      .steam{stroke:#fff4d6;stroke-width:4;fill:none;stroke-linecap:round;opacity:.0;animation:st 3s ease-in-out infinite}
+      .s2{animation-delay:1s}.s3{animation-delay:2s}
+      @keyframes tw{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.45;transform:scale(.8)}}
+      @keyframes st{0%{opacity:0;transform:translateY(0)}30%{opacity:.9}100%{opacity:0;transform:translateY(-26px)}}
+      @media (prefers-reduced-motion: reduce){.dot,.steam{animation:none;opacity:.9}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <!-- floor line -->
+  <rect y="296" width="1200" height="24" fill="#1f1030"/>
+
+  <!-- the purple door -->
+  <rect x="80" y="36" width="190" height="262" rx="6" fill="url(#door)" stroke="#2a1640" stroke-width="4"/>
+  <rect x="100" y="56" width="150" height="70" rx="4" fill="none" stroke="#3b1f5e" stroke-width="3"/>
+  <rect x="100" y="190" width="150" height="90" rx="4" fill="none" stroke="#3b1f5e" stroke-width="3"/>
+  <circle cx="240" cy="200" r="7" fill="url(#gold)"/>
+  <!-- yellow frame around the peephole -->
+  <g transform="translate(175 150)">
+    <ellipse rx="40" ry="48" fill="none" stroke="url(#gold)" stroke-width="11"/>
+    <ellipse rx="52" ry="60" fill="none" stroke="#f7c948" stroke-width="2" opacity=".55"/>
+    <circle r="10" fill="#1a1024"/>
+    <circle r="3.5" cx="-3" cy="-3" fill="#ffffff" opacity=".7"/>
+  </g>
+
+  <!-- headline -->
+  <text x="330" y="138" class="t" font-size="88" fill="#ffffff">ANAM</text>
+  <text x="632" y="138" class="t" font-size="88" fill="#f7c948">ZAHID</text>
+
+  <!-- the dots -->
+  <g transform="translate(336 170)">
+    <circle class="dot"    cx="0"   cy="0" r="9" fill="#ff3b3b" style="transform-origin:0px 0px"/>
+    <circle class="dot d2" cx="34"  cy="0" r="9" fill="#3b9ae1" style="transform-origin:34px 0px"/>
+    <circle class="dot d3" cx="68"  cy="0" r="9" fill="#f7c948" style="transform-origin:68px 0px"/>
+  </g>
+  <text x="422" y="178" class="s" font-size="22" fill="#fff4d6">THE ONE WHERE SHE BUILDS BACKENDS</text>
+
+  <text x="330" y="222" class="m" font-size="21" fill="#e9ddff">Python Full-Stack Developer  ·  AI Agent and LLM Evaluation  ·  Gurugram, India</text>
+  <text x="330" y="262" class="m" font-size="18" fill="#c9b8ec" font-style="italic">“Could I BE any more full-stack?”</text>
+
+  <!-- coffee, obviously -->
+  <g transform="translate(1030 160)">
+    <path class="steam"    d="M22 20 q-8 -14 0 -28 q8 -14 0 -28"/>
+    <path class="steam s2" d="M44 20 q-8 -14 0 -28 q8 -14 0 -28"/>
+    <path class="steam s3" d="M66 20 q-8 -14 0 -28 q8 -14 0 -28"/>
+    <rect x="0" y="26" width="90" height="92" rx="12" fill="#fff4d6" stroke="#e8703a" stroke-width="5"/>
+    <path d="M90 48 q34 0 34 28 q0 28 -34 28" fill="none" stroke="#e8703a" stroke-width="9" stroke-linecap="round"/>
+    <rect x="0" y="26" width="90" height="16" rx="6" fill="#e8703a"/>
+    <rect x="-16" y="118" width="122" height="10" rx="5" fill="#e8703a"/>
+  </g>
+</svg>
