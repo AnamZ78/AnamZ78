@@ -1,0 +1,49 @@
+name: Rotate README theme
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # daily at 06:00 IST
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Force a theme (catppuccin, dracula, gruvbox, paper, tokyonight). Leave empty for today's pick."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick today's theme
+        id: pick
+        run: |
+          THEMES=(catppuccin dracula gruvbox paper)
+          if [ -n "${{ github.event.inputs.theme }}" ]; then
+            T="${{ github.event.inputs.theme }}"
+          else
+            DOY=$(date -u +%j | sed 's/^0*//')
+            T=${THEMES[$(( DOY % ${#THEMES[@]} ))]}
+          fi
+          test -f "themes/$T.md" || { echo "unknown theme: $T"; exit 1; }
+          echo "theme=$T" >> "$GITHUB_OUTPUT"
+          echo "Today's theme: $T"
+
+      - name: Apply theme
+        run: cp "themes/${{ steps.pick.outputs.theme }}.md" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "Anam Zahid"
+          git config user.email "anamzahid126@gmail.com"
+          if git diff --quiet README.md; then
+            echo "README already on ${{ steps.pick.outputs.theme }}; nothing to do"
+          else
+            git add README.md
+            git commit -m "README theme → ${{ steps.pick.outputs.theme }}"
+            git push
+          fi
