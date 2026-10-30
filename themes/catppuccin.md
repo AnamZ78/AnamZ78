@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=cba6f7&center=true&vCenter=true&width=620&lines=hi%2C%20I%20build%20FinTech%2C%20HRMS%20%26%20AI%20systems%20in%20Python%20%E2%9C%BF;evaluating%20AI%20agents%20%26%20foundation%20models%20%E2%9C%BF;Django%20%E2%80%A2%20FastAPI%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20AWS%20%E2%9C%BF;open%20to%20Backend%20%26%20AI%2FLLM%20Engineering%20roles%20%E2%9C%BF" alt="typing" />
-
-<br/><br/>
-
 <a href="https://anam-zahid-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=googlechrome&logoColor=1e1e2e" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/anamzahid126/"><img src="https://img.shields.io/badge/LinkedIn-f5c2e7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/></a> <a href="mailto:anamzahid126@gmail.com"><img src="https://img.shields.io/badge/Email-fab387?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Email"/></a> <a href="https://instagram.com/anam_zahid.78"><img src="https://img.shields.io/badge/Instagram-a6e3a1?style=for-the-badge&logo=instagram&logoColor=1e1e2e" alt="Instagram"/></a> <a href="https://anam-zahid-portfolio.onrender.com/static/assets/Anam_Zahid_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-89b4fa?style=for-the-badge&logo=adobeacrobatreader&logoColor=1e1e2e" alt="Résumé"/></a>
 
 <br/><br/>
@@ -110,38 +106,6 @@ open_to:     [Python Backend, AI/LLM Engineering, GenAI]
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e1e2e,25:cba6f7,50:f5c2e7,75:fab387,100:1e1e2e" width="100%" alt=""/>
 
-## 🍬 &nbsp;github analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnamZ78&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnamZ78&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&hide=php,hack,mako,procfile" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AnamZ78&theme=catppuccin-mocha&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnamZ78&theme=nord_dark" width="92%" alt="Profile details" />
-
-<br/><br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnamZ78&theme=nord_dark" alt="Repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnamZ78&theme=nord_dark&utcOffset=5.5" alt="Productive time" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnamZ78/AnamZ78/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnamZ78/AnamZ78/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AnamZ78/AnamZ78/output/github-contribution-grid-snake.svg" width="92%" />
-  </picture>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1e1e2e,25:cba6f7,50:f5c2e7,75:fab387,100:1e1e2e" width="100%" alt=""/>
 
 ## 🫧 &nbsp;let's connect
@@ -154,10 +118,6 @@ Open to <b>Python Backend</b>, <b>AI / LLM Engineering</b> and <b>Python + GenAI
 
 <a href="mailto:anamzahid126@gmail.com"><img src="https://img.shields.io/badge/anamzahid126%40gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=1e1e2e" /></a>
 <a href="https://www.linkedin.com/in/anamzahid126/"><img src="https://img.shields.io/badge/in%2Fanamzahid126-f5c2e7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" /></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="quote" />
 
 </div>
 
